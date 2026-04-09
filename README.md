@@ -26,6 +26,6 @@ When I'm not studying, singing, practicing violin, or hanging out with friends, 
 ### 🎵 Recently Played on Spotify
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31oqvjmk3d5a37hyubo7kjhfamim&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oqvjmk3d5a37hyubo7kjhfamim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oqvjmk3d5a37hyubo7kjhfamim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
