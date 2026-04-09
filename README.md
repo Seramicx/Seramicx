@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Guhan!+%F0%9F%91%8B;Reverse-Engineering+Enthusiast;Computer+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Guhan!+%F0%9F%91%8B;Computer+Engineering+Student" alt="Typing SVG" />
 </h1>
 
 I'm a Computer Engineering student at Bellevue College actively working towards transferring to a four-year university. I'm deeply passionate about software engineering, hardware/software integration, and building tools that genuinely improve user experiences.
