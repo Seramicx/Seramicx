@@ -23,6 +23,11 @@ When I'm not studying, singing, practicing violin, or hanging out with friends, 
 ### 📊 GitHub Stats
 ![Guhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seramicx&show_icons=true&theme=radical)
 
+### 🎵 Recently Played on Spotify
+<a href="https://github.com/JeffreyCA/spotify-recently-played-readme">
+  <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=31oqvjmk3d5a37hyubo7kjhfamim" />
+</a>
+
 <details>
 <summary><b>🎮 Click to play Tic-Tac-Toe!</b></summary>
 
