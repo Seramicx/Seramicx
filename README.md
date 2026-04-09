@@ -20,8 +20,8 @@ When I'm not studying, singing, practicing violin, or hanging out with friends, 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Seramicx/Seramicx/output/github-snake.svg">
 </picture>
 
-### 📊 GitHub Stats
-![Guhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seramicx&show_icons=true&theme=radical)
+### 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Seramicx&theme=radical)](https://git.io/streak-stats)
 
 ### 🎵 Recently Played on Spotify
 <p align="center">
