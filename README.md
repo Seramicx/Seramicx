@@ -23,17 +23,6 @@ When I'm not studying, singing, practicing violin, or hanging out with friends, 
 ### 🔥 GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Seramicx&theme=radical)](https://git.io/streak-stats)
 
-<br>
-
-<h3 align="center">🎮 Play DOOM inside Markdown</h3>
-<p align="center">
-<a href="https://github.com/Kuberwastaken/DoomMe/blob/main/menu/episode_1.md">
-<img src="https://raw.githubusercontent.com/Kuberwastaken/DoomMe/main/static/start-visual.gif" alt="Click to Play DOOM" width="640">
-</a>
-<br>
-<sub><strong>Yes, this is actually the game. Click it to start playing.</strong></sub>
-</p>
-
 ### 🎵 Recently Played on Spotify
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31oqvjmk3d5a37hyubo7kjhfamim&redirect=true">
