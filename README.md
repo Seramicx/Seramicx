@@ -2,14 +2,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Guhan!+%F0%9F%91%8B;Computer+Engineering+Student" alt="Typing SVG" />
 </h1>
 
-I'm a Computer Engineering student at Bellevue College actively working towards transferring to a four-year university. I'm deeply passionate about software engineering, hardware/software integration, and building tools that genuinely improve user experiences.
+**Computer Engineering @ Bellevue College → transferring to a 4-year**
 
-When I'm not studying, singing, practicing violin, or hanging out with friends, I spend my time deep-diving into whatever interests me, and reverse-engineering them. I love tackling difficult technical problems, whether that's understanding an undocumented codebase, or figuring out how to inject complex mathematics-driven systems purely through code injection into existing 3D engines.
+Passionate about software engineering, hardware/software integration, and building tools that genuinely improve user experiences. When I'm not studying, I'm singing, playing violin, or reverse-engineering whatever's caught my attention — from undocumented codebases to injecting math-driven systems into 3D engines.
 
-### 💻 Technologies & Tools
-* **Languages:** Java, TypeScript, JavaScript, Python, HTML/CSS
-* **Skills:** Object-Oriented Design, Reverse Engineering, API Integration, Git
-* **Currently focusing on:** Data Structures, Low-level Engine Mechanics, and Open Source Contributions.
+---
+
+### 🛠 technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🔭 currently focusing on
+
+`Data Structures` `Low-level Engine Mechanics` `Open Source Contributions` `Reverse Engineering`
 
 ---
 
