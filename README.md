@@ -4,7 +4,7 @@
 
 **Computer Engineering @ Bellevue College → transferring to a 4-year**
 
-Passionate about software engineering, hardware/software integration, and building tools that genuinely improve user experiences. When I'm not studying, I'm singing, playing violin, or reverse-engineering whatever's caught my attention — from undocumented codebases to injecting math-driven systems into 3D engines.
+Passionate about software engineering, hardware/software integration, and building tools that genuinely improve user experiences. When I'm not studying, I'm singing, playing violin, or reverse-engineering whatever's caught my attention, from undocumented codebases to injecting math-driven systems into 3D engines.
 
 ---
 
