@@ -25,9 +25,11 @@ hobbies: [ singing, violin, deep-diving into whatever catches my attention ]
 
 #### 📫 How to reach me:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;
-<a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a> &nbsp;
-[<img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>](https://github.com/Seramicx)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/guhankumar) &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:guhankay@gmail.com) &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>](https://github.com/Seramicx) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="3.5%"/>](https://discordapp.com/users/543577333530099742) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/steam.png" width="3.5%"/>](https://steamcommunity.com/id/seramicx)
 
 #### 👨🏻‍💻 Languages and tools:
 
