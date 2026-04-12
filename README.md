@@ -20,7 +20,7 @@ currently_working_on:
 problem_solving:
   - reverse engineering undocumented codebases
   - injecting math-driven systems into existing 3D engines
-hobbies: [ singing, violin, deep-diving into whatever catches my attention ]
+hobbies: [ singing, violin, gaming, anime, deep-diving into whatever catches my attention ]
 ```
 
 #### 📫 How to reach me:
