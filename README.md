@@ -1,43 +1,60 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Guhan!+%F0%9F%91%8B;Computer+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi,+I'm+Guhan!+%F0%9F%91%8B;Computer+Engineering+Student;Software+%26+Hardware+Enthusiast;Reverse+Engineer+%F0%9F%94%A7" alt="Typing SVG" />
 </h1>
 
-**Computer Engineering @ Bellevue College → transferring to a 4-year**
+![](https://komarev.com/ghpvc/?username=Seramicx&label=Profile%20Visits&color=36BCF7&style=for-the-badge)
 
-Passionate about software engineering, hardware/software integration, and building tools that genuinely improve user experiences. When I'm not studying, I'm singing, playing violin, or reverse-engineering whatever's caught my attention, from undocumented codebases to injecting math-driven systems into 3D engines.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" align="right" width="350" height="auto" />
 
----
+```yaml
+name: Guhan
+education: Computer Engineering @ Bellevue College → transferring to a 4-year
+passions:
+  - software engineering
+  - hardware/software integration
+  - building tools that improve user experiences
+currently_working_on:
+  - Data Structures
+  - Low-level Engine Mechanics
+  - Open Source Contributions
+problem_solving:
+  - reverse engineering undocumented codebases
+  - injecting math-driven systems into existing 3D engines
+hobbies: [ singing, violin, deep-diving into whatever catches my attention ]
+```
 
-### 🛠 technologies
+#### 📫 How to reach me:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;
+<a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a> &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>](https://github.com/Seramicx)
 
----
+#### 👨🏻‍💻 Languages and tools:
 
-### 🔭 currently focusing on
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-`Data Structures` `Low-level Engine Mechanics` `Open Source Contributions` `Reverse Engineering`
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seramicx&theme=github_dark" width="48%"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seramicx&theme=github_dark" width="48%"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seramicx&theme=github_dark" width="100%"/>
+</p>
 
-### 🐍 GitHub Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seramicx/Seramicx/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seramicx/Seramicx/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Seramicx/Seramicx/output/github-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Seramicx&theme=github-dark-blue&hide_border=true" />
+</p>
 
-### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Seramicx&theme=radical)](https://git.io/streak-stats)
-
-### 🎵 Recently Played on Spotify
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31oqvjmk3d5a37hyubo7kjhfamim&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oqvjmk3d5a37hyubo7kjhfamim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oqvjmk3d5a37hyubo7kjhfamim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
   </a>
 </p>
